@@ -24,8 +24,8 @@ I am a passionate Developer from **Indonesia** 🇮🇩. I love building things 
 
 ### 📊 My GitHub Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elmcq&show_icons=true&theme=tokyonight&hide_border=false" alt="Elmcq's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmcq&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmcq&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmcq&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 ### 📈 Contribution Graph

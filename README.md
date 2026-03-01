@@ -22,14 +22,16 @@ I am a passionate Developer from **Indonesia** 🇮🇩. I love building things 
 ## 🎮 Gaming & Servers
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
-### 📊 My GitHub Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elmcq&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmcq&layout=compact&theme=tokyonight" width="300" />
+### 📊 My Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmcq&show_icons=true&theme=tokyonight&hide_border=true" alt="Elmcq GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmcq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
-### 📈 Contribution Graph
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Elmcq/Elmcq/output/github-contribution-grid-snake.svg)
+### 🔥 Current Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmcq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 *“Equivalent Exchange: To gain something, something of equal value must be lost.”* ⚡

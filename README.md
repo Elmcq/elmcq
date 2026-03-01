@@ -22,9 +22,5 @@ I am a passionate Developer from **Indonesia** 🇮🇩. I love building things 
 ## 🎮 Gaming & Servers
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
-### 📊 GitHub Stats
-![Elmcq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmcq&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmcq&layout=compact&theme=tokyonight)
-
 ---
 *“Equivalent Exchange: To gain something, something of equal value must be lost.”* ⚡

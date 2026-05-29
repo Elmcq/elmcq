@@ -1,32 +1,66 @@
 # Hi there, I'm Elmcq! 👋
 
-I am a passionate Developer from **Indonesia** 🇮🇩. I love building things that live on the internet, whether that be websites, bots, or server configurations.
+Full-Stack Developer from **Indonesia** 🇮🇩
 
-### 🚀 About Me
-- 🔭 I’m currently working on improving my **JavaScript** and **TypeScript** skills.
-- 🌱 Learning more about **Back-end architecture** and **Bot development**.
-- 💬 Ask me about: Minecraft server setups, WhatsApp bots, or Discord integration.
-- 📫 How to reach me: [sh1mytbagus@gmail.com](mailto:sh1mytbagus@gmail.com)
+I enjoy building web applications, automation tools, bots, and server solutions.
+Passionate about creating useful digital experiences and continuously improving
+my development skills.
 
-### 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🚀 About Me
 
-## 🤖 Bot & Tools
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* 💻 Building modern web applications with **JavaScript**, **TypeScript**, and **Node.js**
+* 🤖 Developing automation tools, Discord bots, and WhatsApp integrations
+* 🌐 Interested in backend systems, APIs, and scalable web architecture
+* 🎮 Experienced with Minecraft server setup and management
+* 📚 Always learning new technologies and best development practices
+* 📫 Reach me at: **[sh1mytbagus@gmail.com](mailto:sh1mytbagus@gmail.com)**
+
+## 🛠 Tech Stack
+
+### Languages
+
+* JavaScript
+* TypeScript
+
+### Backend
+
+* Node.js
+* Express
+
+### Database & Services
+
+* Supabase
+* REST APIs
+
+### Tools
+
+* Git
+* GitHub
+* Linux
+* VS Code
+
+## 🤖 Bots & Automation
+
+* WhatsApp Bots
+* Discord Bots
+* API Integrations
+* Workflow Automation
 
 ## 🎮 Gaming & Servers
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
+* Minecraft Server Administration
+* Plugin Configuration
+* Community Management
+* Server Optimization
 
-### 🔥 Current Streak
+### 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmcq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-*“Equivalent Exchange: To gain something, something of equal value must be lost.”* ⚡
+
+> "Equivalent Exchange: To gain something, something of equal value must be lost."
+
+⭐ Thanks for visiting my profile.
